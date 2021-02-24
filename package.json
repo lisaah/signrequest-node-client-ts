@@ -23,5 +23,13 @@
   "devDependencies": {
     "@types/node": "^12.11.5",
     "typescript": "^3.6.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisaah/signrequest-node-client-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lisaah/signrequest-node-client-ts/issues"
+  },
+  "homepage": "https://github.com/lisaah/signrequest-node-client-ts#readme"
 }
